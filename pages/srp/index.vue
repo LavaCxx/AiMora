@@ -55,7 +55,7 @@ export default {
       AiScore: 0,
       winner: '',
       conut: 0,
-      maxLength:10
+      maxLength:12
     }
   },
   methods: {
