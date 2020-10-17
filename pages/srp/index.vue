@@ -1,6 +1,6 @@
 <template>
   <div class="w-screen bg-gray-200 font-sans flex justify-center items-center sm:flex-col md:flex-row xl:flex-row h-screen">
-    <section class="mx-10 bg-white flex flex-col w-screen sm:w-3/4 md:w-2/7 lg:w-1/3 xl:w-1/4">
+    <section class="mx-10 bg-white flex flex-col w-screen sm:w-3/4 md:w-2/7 lg:w-1/4 xl:w-1/4">
       <header class="text-center w-auto py-4 rounded px-5">
         <h1 class="text-purple-500 text-4xl font-bold shadow">剪刀石头布</h1>
       </header>
@@ -49,7 +49,7 @@
         </footer>
       </main>
     </section>
-    <section class="xl:mx-10 sm:mx-0 text-center sm:my-10">
+    <section class="xl:mx-10 sm:mx-0 text-center sm:my-10  w-screen sm:w-3/4 md:w-2/7 lg:w-1/4 xl:w-1/4">
       <table>
           <tr class="bg-gray-500">
             <td class="xl:px-5 xl:py-1 sm:px-5">局数</td>
